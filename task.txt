@@ -1,0 +1,69 @@
+Section A — AI Companies & Latest Models
+1. OpenAI.
+2. Anthropic.
+3. Google (Google DeepMind).
+4. Meta.
+5. xAI.
+6. France.
+7. GPT-6 Astra.
+8. GPT-6.1 Sol (near-Astra performance at lower cost).
+9. Claude Haiku 5.5.
+10. Gemini 4; its flagship model is called Argon.
+Section B — Generative AI & LLM Concepts
+11. Large Language Model.
+12. AI that creates new content, such as text, images, audio, video, or code.
+13. The instruction or input given to an AI model.
+14. A high-priority instruction that guides the AI’s role, behavior, and rules.
+15. When AI produces information that sounds convincing but is false or unsupported.
+16. A small unit of text or other data that an LLM processes; a word may be split into several tokens.
+17. The amount of input and conversation information a model can consider at one time.
+18. The process of using a trained AI model to produce an output.
+19. Further training a pre-trained model on a focused dataset or task.
+20. AI that can process or generate more than one type of data, such as text, images, audio, and video.
+Section C — Agents, RAG & Modern AI Development
+21. An AI system that can plan steps and use tools to achieve a goal.
+22. A chatbot mainly responds in conversation; an AI agent can also take actions and complete multi-step tasks.
+23. Retrieval-Augmented Generation.
+24. To retrieve relevant external information so the model can give more grounded, up-to-date answers.
+25. A numerical representation of data that captures semantic meaning.
+26. To store and search vector embeddings, often by semantic similarity.
+27. It lets the model request external tools or functions, such as searching, calculating, or querying a database.
+28. Model Context Protocol.
+29. To authenticate an application or user to an API and authorize access according to its permissions.
+30. A process in which an AI agent plans and carries out multiple connected steps toward a goal.
+AI Awareness Quiz 2026 — Solved Answer Key Page 2
+Section D — AI Image, Video, Audio & Famous Tools
+31. Images and artwork.
+32. AI video generation.
+33. GPT Image models (for example, GPT Image 2.5).
+34. Generating an image from a written description.
+35. Generating a video from a written description.
+36. Text-to-Speech.
+37. Speech-to-Text.
+38. Optical Character Recognition: detecting and extracting text from images or scanned documents.
+39. A model that understands and connects visual information with language.
+40. Using AI to create a synthetic voice that resembles a particular person’s voice.
+Section E — Coding AI, Hardware & Practical Awareness
+41. AI-assisted code completion, code generation, and programming support.
+42. AI-assisted software development and editing code across a codebase.
+43. A tool that helps developers write, explain, debug, or improve code using AI.
+44. GPUs (Graphics Processing Units), often used in groups for large-scale training.
+45. Graphics Processing Unit.
+46. Neural Processing Unit.
+47. To store model data, tensors, and intermediate computations on the GPU during AI tasks.
+48. Running the model on your own computer or device instead of sending the main computation to a remote
+server.
+49. A model whose trained weights are publicly available under stated access and license terms.
+50. Training a smaller model to imitate the outputs or behavior of a larger teacher model.
+Section F — Latest AI Awareness & 2026 News
+51. The GPT-6 model family.
+52. GPT-6 Astra.
+53. Claude Opus 5.5.
+54. Claude Haiku 5.5.
+55. Gemini 4 Argon.
+56. GPT Image 2.5 family (including Sunburst and Flare).
+57. GPT-Live-1.1 family (including GPT-Live-1.1 Quip).
+58. Anthropic.
+59. Prompt injection.
+60. Because AI can make mistakes or omit important context; a qualified human should check accuracy, safety, and
+suitability before acting.
